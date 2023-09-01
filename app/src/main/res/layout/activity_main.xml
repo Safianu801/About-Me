@@ -39,6 +39,7 @@
             android:layout_height="60dp"
             android:layout_below="@id/defText"
             android:layout_marginTop="40dp"
+            android:id="@+id/enterBtn"
             android:layout_centerHorizontal="true"
             android:background="@drawable/go_button_style">
 
